@@ -1,0 +1,11 @@
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/print.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/check.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/package.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/package_source.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/test.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/edit_cache.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/rebuild_cache.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/list_install_components.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/install.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/install/local.dir
+/home/pavel/PNuikin/workspace/projects/lab07/_builds/CMakeFiles/install/strip.dir

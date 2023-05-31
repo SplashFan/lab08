@@ -1,0 +1,1 @@
+"cmake" "-H." "-B/home/pavel/PNuikin/workspace/projects/lab07/_builds/default" "-DCMAKE_TOOLCHAIN_FILE=/home/pavel/PNuikin/workspace/projects/lab07/tools/polly/default.cmake"
