@@ -294,7 +294,23 @@ Successfully tagged logger:latest
 ]
  
  ```
-
+splashfan@splashfan:~/SplashFan/workspace/projects/lab08$ sudo docker images
+```sh
+REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
+logger       latest    fb241d65dd91   14 minutes ago   337MB
+<none>       <none>    72b845e589b5   3 hours ago      337MB
+<none>       <none>    9e0f7dd7e8bf   3 hours ago      359MB
+<none>       <none>    eca9b06c01a8   3 hours ago      335MB
+<none>       <none>    ef949efd5858   3 hours ago      335MB
+<none>       <none>    b4875f1eedde   3 hours ago      335MB
+<none>       <none>    4da634fbdd38   3 hours ago      335MB
+<none>       <none>    e1aac4b915e6   3 hours ago      335MB
+<none>       <none>    840194c8f49f   3 hours ago      335MB
+<none>       <none>    489edb1e97d8   3 hours ago      335MB
+<none>       <none>    f21834fe5397   4 hours ago      335MB
+<none>       <none>    e5a80b3c975a   4 days ago       359MB
+ubuntu       18.04     97ba4bbc97fc   3 weeks ago      63.2MB
+```
 
 ```sh
 $ cat logs/log.txt
