@@ -96,11 +96,7 @@ EOF
 $ docker build -t logger .
 ```
 
-<details><summary>Output</summary>
-<p>
-```sh
-splashfan@splashfan:~/SplashFan/workspace/projects/lab08$ sudo docker build -t logger .
-[sudo] password for splashfan: 
+```sh 
 Sending build context to Docker daemon  3.674MB
 Step 1/12 : FROM ubuntu:18.04
  ---> 97ba4bbc97fc
